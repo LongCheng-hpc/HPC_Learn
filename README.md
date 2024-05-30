@@ -31,7 +31,7 @@
 # 基础课程
 ## C/C++
 - 📚
-  - C++ Primer
+  - [C++ Primer](https://zhjwpku.com/assets/pdf/books/C++.Primer.5th.Edition_2013.pdf)
   - [Effective Modern C++](https://www.amazon.com/Effective-Modern-Specific-Ways-Improve/dp/1491903996/ref=sr_1_1?crid=2YG6ECDD8JW5M&keywords=effective+modern+c%2B%2B&qid=1555244788&s=books&sprefix=effective+modern+%2Cstripbooks-intl-ship%2C214&sr=1-1)
   - [现代 C++ 教程：高速上手 C++ 11/14/17/20](https://changkun.de/modern-cpp/)
 - 🖥️
