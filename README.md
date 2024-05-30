@@ -66,11 +66,13 @@
 ## GPGPU
 - 📚
   - [通用图形处理器架构](https://link.springer.com/book/10.1007/978-3-031-01759-9)
+  - [CUDA C++编程指南](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html#programming-model)
 
 - 🖥️
-
+  - [NVIDIA, CUDA Training Series](https://www.youtube.com/playlist?list=PL6RdenZrxrw-zNX7uuGppWETdxt_JxdMj)
 - 🗂️
   - [如何开发机器学习系统：高性能GPU矩阵乘法](https://zhuanlan.zhihu.com/p/531498210)
+  - [CUDA Training Series, Exercises](https://github.com/olcf/cuda-training-series?tab=readme-ov-file)
 
 # 进阶方向
 ## 深度学习系统
