@@ -51,9 +51,10 @@
 
 - 🗂️
 
-## 并行计算原理
+## 并行计算
 - 📚
   - [High Performance Parallel Runtimes](https://www.degruyter.com/document/doi/10.1515/9783110632729/html)
+  - [C++ Concurrency In Action, C++并发编程实践](https://github.com/xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019)
 
 - 🖥️
   - [伯克利CS267：并行计算应用](https://sites.google.com/lbl.gov/cs267-spr2021)
