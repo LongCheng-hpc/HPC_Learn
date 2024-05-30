@@ -60,7 +60,7 @@
   - [伯克利CS267：并行计算应用](https://sites.google.com/lbl.gov/cs267-spr2021)
   - [CMU 15-418/618:并行计算架构及编程](http://15418.courses.cs.cmu.edu/spring2016/home)
   - [MIT:软件系统性能优化](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
-
+  - [MIT:软件系统性能优化, 中翻](https://b23.tv/5vXhKWL)
 - 🗂️
 
 ## GPGPU
